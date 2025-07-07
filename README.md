@@ -16,6 +16,10 @@ Healthcare Letter Assistant is a Streamlit web application that helps healthcare
 
 ---
 
+## Try It Out:
+
+- [here](https://healthcare-letter-assistanttabreadme-ov-file-kejgpazgbyot3ttip.streamlit.app/)
+
 ## Demo
 
 ![Video Demo](./demo/vid.mp4)  
